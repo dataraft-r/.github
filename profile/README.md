@@ -9,6 +9,7 @@ Define the expected columns and quality rules once, check each new delivery, and
 | Start here if you want to… | Repository |
 |---|---|
 | Understand and install the family | [`dataraft`](https://github.com/dataraft-r/dataraft) |
+| Run a complete checked delivery | [`dataraft-example`](https://github.com/dataraft-r/dataraft-example) |
 | Define and check products in R | [`dataraft.core`](https://github.com/dataraft-r/dataraft.core) |
 | Connect files, databases or catalog tools | [`dataraft.adapters`](https://github.com/dataraft-r/dataraft.adapters) |
 | Retain versioned lake releases | [`dataraft.lake`](https://github.com/dataraft-r/dataraft.lake) |
